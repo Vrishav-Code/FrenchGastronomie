@@ -1,0 +1,12 @@
+h1 {
+    font-weight: bolder;
+}
+#ingredients {
+    float: left;
+}
+#recipe {
+    float: right;
+}
+body {
+    background-image: url(https://as1.ftcdn.net/v2/jpg/00/94/83/60/1000_F_94836072_PLF1qts5xlz1Mz4xgcSWHbluaKpFebyt.jpg);
+}
