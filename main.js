@@ -1,1 +1,3 @@
-var Food = ["Food Image 2.png","Food img.png","Food image 3.png"]
+function redirect() {
+    location. replace("Role.html")
+}
